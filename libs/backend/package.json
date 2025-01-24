@@ -1,0 +1,18 @@
+{
+  "name": "@standwm/backend",
+  "version": "1.0.0",
+  "description": "Shared backend lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/standwm/mynest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/standwm/mynest/issues"
+  },
+  "homepage": "https://github.com/standwm/mynest#readme",
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

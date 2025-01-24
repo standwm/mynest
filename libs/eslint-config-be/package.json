@@ -1,0 +1,23 @@
+{
+  "name": "@standwm/eslint-config-be",
+  "version": "1.0.0",
+  "description": "Shared Eslint config for Backend",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/standwm/mynest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/standwm/mynest/issues"
+  },
+  "homepage": "https://github.com/standwm/mynest#readme",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8",
+    "@typescript-eslint/parser": "^8",
+    "eslint": "^9",
+    "eslint-plugin-simple-import-sort": "^12",
+    "eslint-plugin-unused-imports": "^4"
+  }
+}

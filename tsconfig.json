@@ -1,0 +1,9 @@
+{
+  "extends": "@standwm/backend/tsconfig.json",
+  "include": [
+    "src/"
+  ],
+  "exclude": [
+    "tests/"
+  ]
+}
